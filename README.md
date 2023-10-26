@@ -5,6 +5,7 @@ Edges are caused by the discontinuities in surface-reflectance, illumination, su
 
 ##  Dependencies
 You need first to install CUDA and the corresponding PyTorch following  [PyTorch documentation](https://pytorch.org/get-started/locally/).
+
 We used cuda 11.6 and PyTorch 1.12.1 in our experiments.
 ##  Installation
  ```
