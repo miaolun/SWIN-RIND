@@ -15,12 +15,12 @@ The necessary libraries are in [requirements.txt]().
  
 ##  Data
 We trained our model on BSDS-RIND. BSDS-RIND is created by labeling images from the BSDS500.
-Download [BSDS-RIND](https://github.com/MengyangPu/RINDNet) to the local data folder. 
+Download [BSDS-RIND](https://github.com/MengyangPu/RINDNet) to the local [data](https://github.com/miaolun/SWIN-RIND/blob/main/data) folder. 
 If you need original images you can download original images from [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html).
 ##  Execution
 ###  Training
-Download the pre-trained swin-transformer model from () to the [model_zoo] folder.
-Modify the 'path' in train.py and option.py 
+Download the pre-trained swin-transformer model from () to the [model_zoo](https://github.com/miaolun/SWIN-RIND/blob/main/model_zoo) folder.
+Modify the 'local+path' in [train.py](https://github.com/miaolun/SWIN-RIND/blob/main/train.py) and [my_options.py](https://github.com/miaolun/SWIN-RIND/blob/main/option/my_options.py) 
 
 ###  Testing
 
@@ -29,3 +29,4 @@ Modify the 'path' in train.py and option.py
 If you want to compare your method with Swin-RIND, you can download the precomputed results here.
 ##  Citation
 ##  Acknowledgments
+
