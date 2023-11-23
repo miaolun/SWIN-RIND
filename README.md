@@ -34,6 +34,7 @@ You can download the precomputed results [here](https://1drv.ms/u/s!AktMXPD2ejbl
  - Please note that this work is solely intended for academic research purposes only. Any other use is strictly prohibited.
  - We express our gratitude to the anonymous reviewers for their valuable feedback and inspiring suggestions. We appreciate their time and effort in providing us with insightful comments that have helped us to improve our work.
  - Thanks to the previous open-sourced repo:
+
 [RINDNet](https://github.com/MengyangPu/RINDNet)
 [HED-pytorch](https://github.com/xwjabc/hed)  
 [RCF-pytorch](https://github.com/meteorshowers/RCF-pytorch)  
