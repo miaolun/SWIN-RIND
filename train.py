@@ -51,7 +51,7 @@ class Trainer(object):
             self.model = torch.nn.DataParallel(self.model, device_ids=self.args.gpu_ids)
             patch_replication_callback(self.model)
 
-            checkpoint = torch.load(r'.\model_zoo\model_nyu.ckpt')
+            checkpoint = torch.load(r'.\model_zoo\your_checkpoint.ckpt')
             pretrained_dict = checkpoint['model']
             state_dict = self.model.state_dict()
             # state_dict.update(pretrained_dict)
