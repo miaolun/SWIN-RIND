@@ -1,6 +1,6 @@
 # SWIN-RIND
-[SWIN-RIND: Edge Detection for Reflectance, Illumination, Normal and Depth Discontinuity with Swin Transformer](https://proceedings.bmvc2023.org/707/)
-<font color=grey>Lun Miao, Ryoichi Ishikawa and Takeshi Oishi
+[SWIN-RIND: Edge Detection for Reflectance, Illumination, Normal and Depth Discontinuity with Swin Transformer](https://proceedings.bmvc2023.org/707/)  
+<font color=grey>Lun Miao, Ryoichi Ishikawa and Takeshi Oishi  
 _BMVC 2023_ (poster) </font>
 
 ##  Abstract
