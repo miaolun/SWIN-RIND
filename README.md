@@ -35,7 +35,7 @@ You can download the precomputed results [here](https://1drv.ms/u/s!AktMXPD2ejbl
  - We express our gratitude to the anonymous reviewers for their valuable feedback and inspiring suggestions. We appreciate their time and effort in providing us with insightful comments that have helped us to improve our work.
  - Thanks to the previous open-sourced repo:
 
-[RINDNet](https://github.com/MengyangPu/RINDNet)
+[RINDNet](https://github.com/MengyangPu/RINDNet)  
 [BDCN](https://github.com/pkuCactus/BDCN)  
 [DexiNed](https://github.com/xavysp/DexiNed)  
 [DFF](https://github.com/Lavender105/DFF)  
