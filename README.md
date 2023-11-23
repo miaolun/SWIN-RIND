@@ -28,5 +28,15 @@ Modify the 'local+path' in [train.py](https://github.com/miaolun/SWIN-RIND/blob/
 ##  Precomputed Results
 If you want to compare your method with Swin-RIND, you can download the precomputed results here.
 ##  Citation
+```
+@inproceedings{MIAO_2023_BMVC,
+author    = {LUN MIAO and Takeshi Oishi and Ryoichi Ishikawa},
+title     = {SWIN-RIND: Edge Detection for Reflectance, Illumination, Normal and Depth Discontinuity with Swin Transformer},
+booktitle = {34th British Machine Vision Conference 2023, {BMVC} 2023, Aberdeen, UK, November 20-24, 2023},
+publisher = {BMVA},
+year      = {2023},
+url       = {https://papers.bmvc2023.org/0707.pdf}
+}
+```
 ##  Acknowledgments
 
