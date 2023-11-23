@@ -36,11 +36,11 @@ You can download the precomputed results [here](https://1drv.ms/u/s!AktMXPD2ejbl
  - Thanks to the previous open-sourced repo:
 
 [RINDNet](https://github.com/MengyangPu/RINDNet)
-[HED-pytorch](https://github.com/xwjabc/hed)  
-[RCF-pytorch](https://github.com/meteorshowers/RCF-pytorch)  
 [BDCN](https://github.com/pkuCactus/BDCN)  
 [DexiNed](https://github.com/xavysp/DexiNed)  
 [DFF](https://github.com/Lavender105/DFF)  
+[HED-pytorch](https://github.com/xwjabc/hed)  
+[RCF-pytorch](https://github.com/meteorshowers/RCF-pytorch)  
 [DOOBNet-pytorch](https://github.com/yuzhegao/doob)
 ##  Citation
 ```
